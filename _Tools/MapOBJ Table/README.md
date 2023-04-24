@@ -1,0 +1,2 @@
+#Mobj Table 
+This is a file that contains the MapOBJ table, it's used in order to see what to put in MOBJ table Offset. In order to get the number you simply take the line number and substract one. So if we wanted to take over the entry for MOBJ_MOVE_TREE we should put 47 in MOBJ_TABLE_OFFSET since the line number for move tree is 48

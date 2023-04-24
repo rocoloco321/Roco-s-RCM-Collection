@@ -1,0 +1,12 @@
+#pragma once
+#pragma precompile_target "../build/common.mch++"
+#ifdef _WIN32
+#undef _WIN32
+#endif
+//#include <nitro.h>
+//#include <dwc.h>
+//#include <nnsys/fnd.h>
+//#include <nnsys/snd.h>
+//#include <nnsys/g2d.h>
+//#include <nnsys/g3d.h>
+//#include <nnsys/gfd.h>
