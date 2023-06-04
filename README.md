@@ -1,5 +1,6 @@
 # Roco's RCM Collection
  Collection of RCM hacks made by me. More hacks will be added as I make them. Please credit me if you end up using these.
+Code made for GCGP/CTGP/EKDS will NOT be uploaded here.
 
 # Usage (For people who only wants the hacks)
 
